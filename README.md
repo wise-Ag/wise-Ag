@@ -2,11 +2,9 @@
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Happy%20Programming!&animation=&fontColor=ffffff&fontSize=40" />
- 
-    <div style="text-align: left;"> 
+</div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hi there 👋 FE Jieun Son </div> 
-    </div>
 
 
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -15,6 +13,6 @@
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
           </div>
-    </div>
+  
   
     
